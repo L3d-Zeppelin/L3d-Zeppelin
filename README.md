@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L3d-Zeppelin
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on front end beginners
+- 🌱 I’m currently learning HTML, CSS, JS, Unreal Engine 
+- 💞️ I’m looking to collaborate with front end beginners
 - 📫 How to reach me nitrocirkus1945@outlook.com
 
 <!---
